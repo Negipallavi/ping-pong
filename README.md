@@ -1,7 +1,7 @@
 ## Table Tennis Game..
 
 
-This is a simple table tennis game implemented in JavaScript using the HTML5 Canvas API.
+This is a simple table tennis game implemented in JavaScript using the HTML5 Canvas API and CSS, Particlejs.
 The game supports two players, controlled via keyboard inputs, and keeps track of scores using local storage.
 
 # Features
