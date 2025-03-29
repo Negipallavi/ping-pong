@@ -1,4 +1,4 @@
-# Table Tennis Game
+## Table Tennis Game
 
 # Overview
 
@@ -7,49 +7,62 @@ The game supports two players, controlled via keyboard inputs, and keeps track o
 
 # Features
 
-. Two-player mode: Left and right paddles controlled by separate keys.
+- Two-player mode: Left and right paddles controlled by separate keys.
 
-Score tracking: Scores are stored in local storage.
+- Score tracking: Scores are stored in local storage.
 
-Game settings: Adjustable ball speed, paddle speed, and maximum score.
+- Game settings: Adjustable ball speed, paddle speed, and maximum score.
 
-Pause and Restart functionality: Allows pausing and restarting the game.
+- Pause and Restart functionality: Allows pausing and restarting the game.
 
 # Controls
 
-Left Player:
+- Left Player:
 
-Move Up: W
+   Move Up: W
 
-Move Down: S
+   Move Down: S
 
-Right Player:
+- Right Player:
 
-Move Up: Arrow Up
+   Move Up: Arrow Up
 
-Move Down: Arrow Down
+   Move Down: Arrow Down
 
 
 # Game Rules
 
-The ball bounces off the top and bottom walls.
+- The ball bounces off the top and bottom walls.
 
-If the ball hits a paddle, it bounces back in the opposite direction.
+- If the ball hits a paddle, it bounces back in the opposite direction.
 
-If the ball passes a player's paddle, the opponent scores a point.
+- If the ball passes a player's paddle, the opponent scores a point.
 
-The first player to reach the maximum score (default: 3) wins.
+- The first player to reach the maximum score (default: 3) wins.
 
 
 # How to Play
 
-Click the "Start" button to begin.
+- Click the "Start" button to begin.
 
-Use the assigned keys to control the paddles.
+- Use the assigned keys to control the paddles.
 
-Score points by getting the ball past your opponent.
+- Score points by getting the ball past your opponent.
 
-Click "Pause" to stop the game temporarily.
+- Click "Pause" to stop the game temporarily.
 
-Click "Restart" to reset the game.
+- Click "Restart" to reset the game.
+
+# Credit
+
+- [![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)](https://linkedin.com/in/geekdude)
+[![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/geeekdude)
+
+- [![Linkedin: Kunal Upadhyay](https://img.shields.io/badge/-Kunal_Upadhyay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalupadhyayofficial)](https://www.linkedin.com/in/kunalupadhyayofficial)
+[![GitHub Kunal Upadhyay ](https://img.shields.io/github/followers/kunal?label=follow&style=social)](https://github.com/Kunal-Upadhyay)
+<br>
+
+# Developer
+
+- Pallavi Negi..
 
