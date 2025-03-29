@@ -66,3 +66,10 @@ The game supports two players, controlled via keyboard inputs, and keeps track o
 
 - Pallavi Negi..
 
+# Contact
+
+For any inquiries or discussions, feel free to reach out to me:
+
+<a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="27" alt="gmail logo" ></a>
+<a href="https://github.com/Negipallavi/Negipallavi"> <img src="https://skillicons.dev/icons?i=github" width="42" height="27" alt="linkedin logo"></a>
+
