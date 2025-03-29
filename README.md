@@ -7,7 +7,7 @@ The game supports two players, controlled via keyboard inputs, and keeps track o
 
 # Features
 
-Two-player mode: Left and right paddles controlled by separate keys.
+. Two-player mode: Left and right paddles controlled by separate keys.
 
 Score tracking: Scores are stored in local storage.
 
