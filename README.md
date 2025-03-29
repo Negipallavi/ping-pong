@@ -1,6 +1,5 @@
-## Table Tennis Game
+## Table Tennis Game..
 
-# Overview
 
 This is a simple table tennis game implemented in JavaScript using the HTML5 Canvas API.
 The game supports two players, controlled via keyboard inputs, and keeps track of scores using local storage.
@@ -38,7 +37,7 @@ The game supports two players, controlled via keyboard inputs, and keeps track o
 
 - If the ball passes a player's paddle, the opponent scores a point.
 
-- The first player to reach the maximum score (default: 3) wins.
+- The first player to reach the maximum score (default: 6) wins.
 
 
 # How to Play
